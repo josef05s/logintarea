@@ -1,0 +1,19 @@
+
+.menu{
+  
+    transition: all .3s ease-in-out;
+    margin-left: 250px;
+    height: 970px;
+    border: 1px solid black;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+  }
+
+  .menu--large{
+    margin-left: 80px;
+  }
+
+
+  
